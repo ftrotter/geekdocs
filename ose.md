@@ -1,6 +1,6 @@
 <!--Begin Open Source Eventually License-->
 ##Open Source Eventually License
-Version 0.1
+Version 0.15
 
 <!-- Copyright Statement -->
 Copyright (C) 2013 Not Only Development Inc.
@@ -30,7 +30,7 @@ Please read this License carefully before accessing or using the licensed Produc
 
 ###2. Grant of License
 1.  _Pre-Release Products._  Subject to the terms and conditions of this License and to such royalties or fees assessed by Licensor, Licensor hereby grants You, beginning on the Effective Date, a world-wide, non-exclusive license, to the extent of Licensor's Applicable Rights and copyrights for the Covered Products: to use, copy, modify, merge,and/or internally deploy copies of the Pre-Release Products within your organization subject to the following conditions:
-  1. [a restriction]
+  1. `example restriction`.
 2. _Other Products._ Subject to the terms and conditions of this License, Licensor hereby grants You, beginning on the Effective Date, a world-wide, non-exclusive license, to the extent of Licensor's Applicable Rights and copyrights for the Covered Products, to: free of charge and royalty-free, use, copy, modify, merge, publish, distribute, sublicense, externally deploy, and/or sell copies of the Products, and permit persons to whom the Products are furnished to do so, subject to the following restrictions:
   1. You must retain and reproduce in all copies of the Products the copyright and other proprietary notices and disclaimers of Licensor as they appear in the original Products, and keep intact all notices in the Products that refer to this License; and
   1. You must include a copy of this License with every copy of the Products and documentation You distribute or Externally Deploy, and You may not offer or impose any terms on such Products that alter or restrict this License or the recipients' rights hereunder, except as explicitly permitted herein.
